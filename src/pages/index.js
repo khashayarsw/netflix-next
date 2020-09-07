@@ -131,7 +131,7 @@ class Index extends Component {
           }
           .first-section .invalid {
             color: #ffffff;
-            text-align: left;
+            text-align: center;
             font-size: 15px;
           }
           .first-section input {
